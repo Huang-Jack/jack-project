@@ -1,6 +1,5 @@
 
 # 个人信息
-
 ---
  - 黄杰/男/1980 
  - 硕士/四川大学计算机系软件与理论专业
@@ -15,11 +14,8 @@
  - 邮箱：guitar2002star@gmail.com
 
 # 工作经历
-
 ---
-
 ## Dell EMC（2012年4月 ~ Now）
-
 ### EMC存储产品线 
 > 主任工程师（Principal Engineer）
 >
@@ -33,10 +29,8 @@
 - 带领团队高质量完成15个产品版本的测试工作
 - 平均每年获得各类团队和个人奖励10余次
 - 个人输出产品bug数千个，自动化测试代码数万行
-
   
 ## Huawei Symantic（2008年7月 ~ 2012年4月）
-
 ### 华为存储和解决方案部 
 > 高级系统测试工程师（Senior Test System Engineer）
 > 
@@ -53,7 +47,6 @@
 
 
 # 开源项目
-
 ---
 > [机器学习100天]https://github.com/MLEveryday/100-Days-Of-ML-Code
 >> GitHub Trend--Star:1382  Fork:237
@@ -71,7 +64,6 @@
 
 
 # 技能认证
-
 ---
 >Dell EMC Data Scientist,Advanced Analytics-Specialist
 >>[License]https://www.youracclaim.com/profile/badges/58b23f5c-a55c-4d9a-8736-1aaab74bc865
@@ -82,7 +74,6 @@
 >Qualification Certificate of Computer and Software Technology Proficiency(Senior)
 
 # 学术论文
-
 ---
 >Detection of Abnormal System Call Base On Immunology
 >>Application Research of Computers
@@ -91,9 +82,7 @@
 >>Sichuan University
     
 # 能力清单
-
 ---
-
 - 熟悉各类监督/无监督机器学习算法和库，对深度学习有所涉猎
 - 熟悉各类操作系统、数据库、网络、存储和硬件技术
 - 熟悉Python/Perl/C/C++/Delphi/Bash等主流编程语言
@@ -107,6 +96,5 @@
 
 ---      
 # 致谢
-
 感谢您花时间阅读我的简历，期待能有机会和您共事。Write by Markdown
 
